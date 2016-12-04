@@ -75,9 +75,18 @@ In this design, I replace the Red Cirle and Included the Map of Japan. The reaso
 Lastly my favourite flag, the above whereby I included a Samurai sword inside as part of the logo. The Samurai sword is a signature weapon that was inherited from Japan. The earliest origins of this fascinating weapons can be traced back some 1300 years ago. The first Japanese sword were basically variations of the Chinese Jian (called Chokuto) - in other words a straight, double edged iron blade. However sometime during the early Heian period, around 700AD, the first uniquely Japanese swords that were the forerunners of the 'modern' Katana began to evolve. It was during this time that Japan began to abandon such close cultural ties with China, it's society stabilized into class divisions, and the military guards of the capital and the gentlemen of the provinces became the first Samurai. I chose the color Black which is associated with power, elegance, formality and mystery. Black is a mysterious color associated with fear and the unknown.
 
 ## One Tweet
-This project is about typography creating meaning with text. We had to choose a single tweet and play around with the typography making it into a poster. I chosen the tweet by Edward Snowden: Can you hear me now?
+This project is about typography creating meaning with text. We had to choose a single tweet and play around with the typography making it into a poster. I chosen the tweet by Edward Snowden: Can you hear me now? 
 
-![First poster-Simple](https://github.com/globaltrashchic/One-Tweet/blob/master/Snow5.png)
-This was my simple poster whereby I chosen the font Arial Narrow which is one of my favourite fonts. The reason I chosen the color red and blue is because it is the national flag color for Russia whereby Edward Snowden is residing asylum there now. 
+![First Simple Poster](https://github.com/globaltrashchic/One-Tweet/blob/master/Snow5.png)
+
+This was my first simple poster whereby I chosen the font Arial Narrow which is one of my favourite fonts. The reason I chosen the color red and blue is because it is the national flag color for Russia whereby Edward Snowden is residing asylum there now. 
+
+![Second Simple Poster](https://github.com/globaltrashchic/One-Tweet/blob/master/Snow6.pdf)
+
+My second poster I decided to play around with the sizing of the typography from small to big letters whereby it looks like the Can you hear me now is getting louder and gets people's attention. I decided to choose the Red color for Edward Snowden's name and S is because to create an Awareness and Alert to people when reading the poster. 
+
+![Third Poster](https://github.com/globaltrashchic/One-Tweet/blob/master/Snow1.pdf)
+
+My thrid poster, I manage to learn how to fill a character with text in it. And this was my first design. I decided to use the Big S for Snowden's surname. 
 
 
