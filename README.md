@@ -97,3 +97,8 @@ Here I decided to include the color Yellow which is the color of sunshine, hope,
 
 For this particular poster, I used the font Andalé Mono which is a monospaced sans-serif typeface designed by Steve Matteson. And I chose the color Red for the poster because Red is the color of extremes. It's the color of violence, danger, anger, and adventure. Most of red's symbolism today arises from its powerful associations in the past.
 
+![Last Poster](https://github.com/globaltrashchic/One-Tweet/blob/master/Snow2.png)
+
+And my last poster was fill in text in the Question Mark and I choose the color purple because it is one of my favourite colors.
+
+## **Thank you for listening to my Summative Presentation and Hope You Enjoyed It.**
