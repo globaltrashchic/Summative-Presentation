@@ -89,4 +89,11 @@ My second poster I decided to play around with the sizing of the typography from
 
 My third poster, I manage to learn how to fill a character with text in it. And this was my first design. I decided to use the Big S for Snowden's surname. 
 
+![Fourth Poster](https://github.com/globaltrashchic/One-Tweet/blob/master/Snow1.png)
+
+Here I decided to include the color Yellow which is the color of sunshine, hope, and happiness has conflicting associations. On one hand yellow stands for freshness, happiness, positivity, clarity, energy, optimism, enlightenment and joy but on the other, it represents cowardice and deceit as Snowden is hiding in Russia as he is a wanted man back in US. 
+
+![Fifth Poster](https://github.com/globaltrashchic/One-Tweet/blob/master/Snow3.png)
+
+For this particular poster, I used the font Andalé Mono which is a monospaced sans-serif typeface designed by Steve Matteson. And I chose the color Red for the poster because Red is the color of extremes. It's the color of violence, danger, anger, and adventure. Most of red's symbolism today arises from its powerful associations in the past.
 
