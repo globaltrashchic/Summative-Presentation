@@ -87,6 +87,6 @@ My second poster I decided to play around with the sizing of the typography from
 
 ![Third Poster](https://github.com/globaltrashchic/One-Tweet/blob/master/Snow1.pdf)
 
-My thrid poster, I manage to learn how to fill a character with text in it. And this was my first design. I decided to use the Big S for Snowden's surname. 
+My third poster, I manage to learn how to fill a character with text in it. And this was my first design. I decided to use the Big S for Snowden's surname. 
 
 
