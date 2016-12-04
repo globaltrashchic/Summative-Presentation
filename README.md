@@ -29,12 +29,13 @@ Eye Bombing was our lesson's first group project. This was a task for us to take
 ### Someone's house along Portobello Road
 
 ![House](https://github.com/globaltrashchic/eyesbombing/blob/master/unnamed-04.jpg)
+I like how the placing and allignment of the windows and doors in this house. Which reminds me about placing things in grids for our web design. 
 
 ### Home door handle
 
 ![Door Handle](https://github.com/globaltrashchic/eyesbombing/blob/master/unnamed-1.jpg)
 
-### Randon Hanging Cans
+### Random Cans Hanged
 
 ![Cans](https://github.com/globaltrashchic/eyesbombing/blob/master/unnamed-2.jpg)
 
