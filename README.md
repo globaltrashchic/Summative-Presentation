@@ -10,8 +10,8 @@
 
 ## Eye Bombing
 
-** This was a project for us to photographs faces in unusual places. Having different ways of seeing and looking before creating. One thing I have learned from this project is the ability to look at what surrounds you and see the possibilities for how things can be framed
-At the very least, they can transform the ugliest and most soulless places into things of beauty and humor. **
+**This was a project for us to photographs faces in unusual places. Having different ways of seeing and looking before creating. One thing I have learned from this project is the ability to look at what surrounds you and see the possibilities for how things can be framed
+At the very least, they can transform the ugliest and most soulless places into things of beauty and humor.**
 
 ### Man Made Lamp which I founnd in a shop the Portobello market. 
 
