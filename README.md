@@ -85,7 +85,7 @@ This was my first simple poster whereby I chosen the font Arial Narrow which is 
 
 My second poster I decided to play around with the sizing of the typography from small to big letters whereby it looks like the Can you hear me now is getting louder and gets people's attention. I decided to choose the Red color for Edward Snowden's name and S is because to create an Awareness and Alert to people when reading the poster. 
 
-![Third Poster](https://github.com/globaltrashchic/One-Tweet/blob/master/Snow1.pdf)
+![Third Poster](One-Tweet/Snow6.pdf)
 
 My third poster, I manage to learn how to fill a character with text in it. And this was my first design. I decided to use the Big S for Snowden's surname. 
 
