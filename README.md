@@ -14,7 +14,7 @@ Here is my Summative Presentation. I have compiled three of my favourite works w
 
 Eye Bombing was our lesson's first group project. This was a task for us to take photographs of faces in unusual places. Having different ways of seeing and looking before creating in design. One thing I have learned from this project is the ability to look at what surrounds you and see the possibilities for how things can be framed. At the very least, they can transform the ugliest and most soulless places into things of beauty and humor. I decided to take a stroll to Portobello Market on my weekend to get some of the shots that I need.
 
-### Man Made Lamp which I founnd in a shop at the Portobello market. 
+### Man Made Lamp which I found in a shop at the Portobello market. 
 
 ![Lamp](https://github.com/globaltrashchic/eyesbombing/blob/master/image.jpg)
 
