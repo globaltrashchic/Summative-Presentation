@@ -34,7 +34,7 @@ I like how the placing and allignment of the windows and doors in this house. Wh
 
 ![Door Handle](https://github.com/globaltrashchic/eyesbombing/blob/master/unnamed-1.jpg)
 
-The home door handle reminds me of live Mr Teapots as shown in the movie Beauty and the Beast.
+The home door handle reminds me of some cartoon character Lumiere in the movie Beauty and the Beast.
 
 ### 6. Random Cans Hanged
 
