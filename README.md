@@ -108,4 +108,4 @@ And my last poster is, I fill in the text in a Question Mark and I choose the co
 
 # **Thank you**
 
-## **Hope you enjoy it.••
+## **Hope you enjoy it.**
