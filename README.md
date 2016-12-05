@@ -34,6 +34,8 @@ I like how the placing and allignment of the windows and doors in this house. Wh
 
 ![Door Handle](https://github.com/globaltrashchic/eyesbombing/blob/master/unnamed-1.jpg)
 
+![Lumiere](https://github.com/globaltrashchic/eyesbombing/blob/master/lumiere-beauty-and-the-beast-36.8.jpg)
+
 The home door handle reminds me of some cartoon character Lumiere in the movie Beauty and the Beast.
 
 ### 6. Random Cans Hanged
