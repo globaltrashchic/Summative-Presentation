@@ -86,17 +86,17 @@ This project is about typography creating meaning with text. We had to choose a 
 
 This was my first simple poster whereby I chosen the font Arial Narrow which is one of my favourite fonts as Arial has many different kind of design fonts under its family. The reason I chosen the color red and blue is because it is the national flag color for Russia whereby Edward Snowden is residing Asylum there now. 
 
-![Second Simple Poster](https://github.com/globaltrashchic/One-Tweet/blob/8d4222a8b549518b0620ab9328ddcc8ee598e47f/Snow1.png)
+![Second Simple Poster](https://github.com/globaltrashchic/One-Tweet/blob/master/Snow6.png)
 
 My second poster I decided to play around with the sizing of the typography thanks to Callum for teaching me show. Text ranging from small to big letters whereby it looks like the sentence Can you hear me now is getting louder and gets people's attention. I decided to choose the Red color for Edward Snowden's name and "S" is because to create an Awareness and Alert to people when reading the poster. 
 
-![Third Poster](One-Tweet/Snow6.pdf)
+![Third Poster](https://github.com/globaltrashchic/One-Tweet/blob/8d4222a8b549518b0620ab9328ddcc8ee598e47f/Snow1.png)
 
-My third poster, I manage to learn how to fill a character with text in it. And this was my first design. I decided to use the Big S for Snowden's surname. 
+My third poster, I manage to learn how to fill a character with text in it. And this was my first design. I decided to use the Big "S" for Snowden's surname. 
 
 ![Fourth Poster](https://github.com/globaltrashchic/One-Tweet/blob/master/Snow1.png)
 
-Here I decided to include the color Yellow which is the color of sunshine, hope, and happiness but has conflicting associations. On one hand yellow stands for freshness, happiness, positivity, clarity, energy, optimism, enlightenment and joy but on the other, it represents cowardice and deceit as Snowden is hiding in Russia as he is a wanted man back in US. 
+Here I decided to include the color Yellow which is the color of sunshine, hope, and happiness but has conflicting associations. On one hand yellow stands for freshness, happiness, positivity, clarity, energy, optimism, enlightenment and joy but on the other, it represents cowardice and deceit as Snowden is hiding in Russia as he is a wanted man back in the United States. 
 
 ![Fifth Poster](https://github.com/globaltrashchic/One-Tweet/blob/master/Snow3.png)
 
@@ -104,6 +104,8 @@ For this particular poster, I used the font Andalé Mono which is a monospaced s
 
 ![Last Poster](https://github.com/globaltrashchic/One-Tweet/blob/master/Snow2.png)
 
-And my last poster was fill in text in the Question Mark and I choose the color purple because it is one of my favourite colors.
+And my last poster is, I fill in the text in a Question Mark and I choose the color purple because it combines the calm stability of blue and the fierce energy of red. The color purple is often associated with royalty, nobility, luxury, power, and independance.
 
-## **Thank you for listening to my Summative Presentation and Hope You Enjoyed It.**
+# **Thank you**
+
+## **Hope you enjoy it.••
